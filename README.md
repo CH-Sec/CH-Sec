@@ -10,9 +10,9 @@ I am an entry-level Cybersecurity Professional based in Coventry, West Midlands,
 
 ## 📁 Labs & Public Write-Ups
 
-* 🌐 **[PortSwigger Web Security Labs](./portswigger-labs/)** - *Targeted from June onwards.* Manual exploitation walk-throughs covering critical web flaws (OWASP Top 10) using Burp Suite.
-* 🔬 **[Malware Traffic Analysis](./malware-forensics/)** - *Targeted from June onwards.* Forensics reports analyzing real-world PCAPs from malware-traffic-analysis.net to map infection chains and extract IOCs.
-* 🎯 **[Hack The Box Assessments](./htb-reports/)** - *Targeted from June onwards.* Standard network penetration testing reports focused on machine compromise.
+* 🌐 **[PortSwigger Web Security Labs](https://github.com/CH-Sec/portswigger-labs)** - *Targeted from June onwards.* Manual exploitation walk-throughs covering critical web flaws (OWASP Top 10) using Burp Suite.
+* 🔬 **[Malware Traffic Analysis](https://github.com/CH-Sec/malware-forensics)** - *Targeted from June onwards.* Forensics reports analyzing real-world PCAPs from malware-traffic-analysis.net to map infection chains and extract IOCs.
+* 🎯 **[Hack The Box Assessments](https://github.com/CH-Sec/htb-reports)** - *Targeted from June onwards.* Standard network penetration testing reports focused on machine compromise.
 
 ---
 
